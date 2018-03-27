@@ -1,0 +1,12 @@
+nohup: ignoring input
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node ./websiteapi/app.js`[39m
+events.js:136
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+(node:32351) [DEP0022] DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() instead.
+Server running at: http://ip-172-31-4-195:7002
