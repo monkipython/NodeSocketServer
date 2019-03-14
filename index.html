@@ -21,11 +21,11 @@
         <button onclick="track()">Live Track</button>
         <br/><br/>
         <ul id="messages"></ul>
-        <script src="//www.goclean-service.com:9999/socket.io/socket.io.js"></script>
+        <script src="//localhost:9999/socket.io/socket.io.js"></script>
         <script src="https://code.jquery.com/jquery-1.11.1.js"></script>
         <script>
-//            var socket = io('https://eclean.co.uk', {path: '/socketUrl/socket.io'});
-            var socket = io('http://goclean-service.com:9999');
+//            var socket = io('https://example.com', {path: '/socketUrl/socket.io'});
+            var socket = io('http://localhost:9999');
             function track()
             {
                 var pid = $('#pid').val();                
