@@ -30,7 +30,7 @@ io.on('connection', function (socket) {
 
 //START Mongo Trigger
 var MongoStream = require('mongo-trigger');
-var watcher = new MongoStream({username: 'goclean_user', password: '#goclean_user', authdb: 'goclean'});
+var watcher = new MongoStream({username: 'username', password: 'password', authdb: 'databasename'});
 watcher.watch('iserve.location', function (event) {
 //    console.log('location');
     sockgods.broadcast.emit("godzviewChn", event);
