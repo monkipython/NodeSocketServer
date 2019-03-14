@@ -105,7 +105,7 @@ app.post('/cancelByCustomer', function (req, res) {
 // START REDIS  CODE HERE
 var redis = require('redis');
 var redisClient = redis.createClient(6379, 'localhost');
-redisClient.auth('f4r2kiud!');
+redisClient.auth('password');
 redisClient.on('connect', function () {
     console.log('Redis Connected');
 });
