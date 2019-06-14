@@ -1,0 +1,27 @@
+{
+    "url": "mongodb://goclean_user:#goclean_user@127.0.0.1:27017/goclean",
+    "REDIS_USERNAME": "f4r2kiud!",
+    "REDIS_IP": "127.0.0.1",
+    "REDIS_PORT": "6379",
+    "REDIS_PASSWORD": "f4r2kiud!",
+    "expiryPopupSeconds": 120,
+    "MYSQL_HOST": "127.0.0.1",
+    "MYSQL_USER": "root",
+    "MYSQL_PASS": "62ubuPZK=a$R7R=e",
+    "MYSQL_DB": "goclean",
+    "APP_PUBNUB_CHANNEL": "APP_PUBNUB_CHANNELl",
+    "presChnl": "channel_smartdriver",
+    "PUBNUB_PUBLISH_KEY": "pub-c-1924edf2-3d5b-490d-9808-7387ad9be3e4",
+    "PUBNUB_SUBSCRIBE_KEY": "sub-c-a90073f2-0e26-11e7-91d0-02ee2ddab7fe",
+    "AMAZON_AWS_ACCESS_KEY": "AKIAI5CRBK3VAFK7HUPA",
+    "AMAZON_AWS_AUTH_SECRET": "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",
+    "AMAZON_AWS_SNS_REGION": "us-west-1",
+    "AMAZON_DRIVER_APPLICATION_ARN": "arn:aws:cognito-identity:us-west-1:203919509274:identitypool/us-west-1:95ea0460-12db-415a-af49-cf0159bf2f6f",
+    "AMAZON_PASSENGER_APPLICATION_ARN": "arn:aws:cognito-identity:us-west-1:203919509274:identitypool/us-west-1:95ea0460-12db-415a-af49-cf0159bf2f6f",
+    "ANDROID_DRIVER_PUSH_KEY": "",
+    "ANDROID_PASSENGER_PUSH_KEY": "",
+    "ExpiryTime": 30
+}
+
+
+

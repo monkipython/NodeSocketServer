@@ -1,0 +1,27 @@
+{
+    "url": "mongodb://goclean_user:#goclean_user@127.0.0.1:27017/goclean",
+    /*"REDIS_USERNAME": "",*/
+    "REDIS_IP": "localhost",
+    "REDIS_PORT": "6379",
+    "REDIS_PASSWORD": "f4r2kiud!",
+    "expiryPopupSeconds": 120,
+    "MYSQL_HOST": "localhost",
+    "MYSQL_USER": "root",
+    "MYSQL_PASS": "F4r2kiud!",
+    "MYSQL_DB": "gocleandb",
+    "APP_PUBNUB_CHANNEL": "APP_PUBNUB_CHANNELl",
+    "presChnl": "channel_smartdriver",
+    "PUBNUB_PUBLISH_KEY": "pub-c-1924edf2-3d5b-490d-9808-7387ad9be3e4",
+    "PUBNUB_SUBSCRIBE_KEY": "sub-c-a90073f2-0e26-11e7-91d0-02ee2ddab7fe",
+    "AMAZON_AWS_ACCESS_KEY": "AKIAIFN36OHGFKY7DUYQ",
+    "AMAZON_AWS_AUTH_SECRET": "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",
+    "AMAZON_AWS_SNS_REGION": "",
+    "AMAZON_DRIVER_APPLICATION_ARN": "arn:aws:cognito-identity:us-west-2:155144941730:identitypool/us-west-2:a21bb279-625a-49fb-a0a6-3455fc726ce7",
+    "AMAZON_PASSENGER_APPLICATION_ARN": "",
+    "ANDROID_DRIVER_PUSH_KEY": "",
+    "ANDROID_PASSENGER_PUSH_KEY": "",
+    "ExpiryTime": 30
+}
+
+
+
