@@ -15,7 +15,7 @@
     "js-md5": "^0.7.2",
     "jsonwebtoken": "^8.1.0",
     "mailgun-js": "^0.10.1",
-    "mongoose": "^4.13.6",
+    "mongoose": "^4.13.21",
     "mysql": "^2.15.0",
     "node-async-loop": "^1.2.2",
     "node-rest-client": "^3.1.0",
